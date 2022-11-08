@@ -67,6 +67,11 @@
     <path>/ishop</path>
   </configuration>
 </plugin>
+      
+ <properties>
+  <sonar.organization>marioarocapaez</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 
 <!-- Configure the Tomcat Maven plugin -->
 <plugin>
